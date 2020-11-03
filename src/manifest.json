@@ -19,14 +19,14 @@
     "webRequest",
     "webRequestBlocking",
     "*://go/*",
-    "*://*.trot.to/*"
+    "*://*.go.mekari.io/*"
   ],
   "background": {
     "scripts": ["background.js"]
   },
   "content_scripts": [
     {
-      "matches": ["*://*.trot.to/*"],
+      "matches": ["*://*.go.mekari.io/*"],
       "js": ["data_injector.js"],
       "run_at": "document_start"
     }

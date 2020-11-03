@@ -1,4 +1,4 @@
-# Trotto Go Links Browser Extension
+# Mekari Go Links Browser Extension
 
 This repository contains all the code used in
 the [Trotto go links Chrome extension](https://chrome.google.com/webstore/detail/trotto-go-links/nkeoojidblilnkcbbmfhaeebndapehjk)
